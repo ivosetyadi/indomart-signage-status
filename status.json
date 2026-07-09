@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "updated_at": "2026-07-09T00:00:00Z",
+  "blocked_devices": [],
+  "blocked_tenants": [],
+  "notes": "Layer 3 kill switch for indomart.us signage. Client polls this file when primary API is down."
+}
